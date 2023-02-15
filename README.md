@@ -22,7 +22,7 @@
 
 ```console
 # clone the repo
-git clone https://github.com/ANG13T/netspionage.git
+git clone https://github.com/YAHYA950/netspionage.git
 
 # change the working directory to netspionage
 cd netspionage
